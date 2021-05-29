@@ -8,7 +8,7 @@
 
 ## SETUP
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Virtual Serial Port emmulator</summary>
 1. Download the Blynk app from playstore.
 2. Create an account and a new project by mentioning the device as Arduino instead of ESP module which is the default device.
 3. After creating the project an email will be sent to the registered email address which contains the auth key. 
