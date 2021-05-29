@@ -14,8 +14,8 @@
         * UltrasonicTEP.IDX, 
         * UltrasonicTEP.LIB, 
         * UltrasonicTEP.HEX. 
-   * Place these three files in the LIBRARY folder of your Proteus software folder. Sometimes LIBRARY folder can be found insite the DATA folder of the proteus as shown below</br>  
-\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\DATA\LIBRARY\UltraSonicSensor.HEX].
+   * Place these three files in the LIBRARY folder of your Proteus software folder. Sometimes LIBRARY folder can be found insite the DATA folder of the proteus as shown below</br> 
+     [...\Labcenter Electronics\Proteus 8 Professional\DATA\LIBRARY\UltraSonicSensor.HEX].
 Now, double click on the ultrasonic sensor.
 The edit component dialog box appears.
 In the ultrasonic sensor field. There is an option to select file. Select UltraSonicSensor.HEX file from the libraries folder of proteus.
