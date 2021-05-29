@@ -1,8 +1,8 @@
 ## IOT-based-Fall-Detection-System
+This project proposes a IoT based fall detection and rescue system. The main objective here is to alert the guardian/ doctor if there is a possibility of fall. Therefore, it is designed in such a way that if an obstacle is sensed by the ultrasonic sensore then it alerts the user via a buzzer and hence will be saved from any accident / falling.Further, The most life-threatening aspect of falling is lying on the floor for long periods of time without any medical aid. If the distance between the obstacle and the sensor further reduces, then an email is sent to a specified email addess. Thereby preventing fall.
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/66554341/120069775-471aaf00-c0a5-11eb-9d6a-1b7d5184c57c.png" />
 </h1>
-This project proposes a IoT based fall detection and rescue system. The main objective here is to alert the guardian/ doctor if there is a possibility of fall. Therefore, it is designed in such a way that if an obstacle is sensed by the ultrasonic sensore then it alerts the user via a buzzer and hence will be saved from any accident / falling.Further, The most life-threatening aspect of falling is lying on the floor for long periods of time without any medical aid. If the distance between the obstacle and the sensor further reduces, then an email is sent to a specified email addess. Thereby preventing fall.
 
 ## Software Requirements
 1. Download and install the Proteus software.
