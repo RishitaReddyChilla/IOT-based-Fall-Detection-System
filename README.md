@@ -1,5 +1,8 @@
 ## IOT-based-Fall-Detection-System
-![image](https://user-images.githubusercontent.com/66554341/120069775-471aaf00-c0a5-11eb-9d6a-1b7d5184c57c.png)
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/66554341/120069775-471aaf00-c0a5-11eb-9d6a-1b7d5184c57c.png" />
+</h1>
+
 
 ## Software Requirements
 1. Download and install the Proteus software.
