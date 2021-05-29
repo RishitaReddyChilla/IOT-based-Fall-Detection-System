@@ -53,11 +53,11 @@ This project proposes an IoT based fall detection and rescue system. The main ob
 
     ![image](https://user-images.githubusercontent.com/66554341/120069395-72040380-c0a3-11eb-972e-cb9d0f6653e2.png)
 15. Now, open command prompt and type the following 3 commands to communicate between the devices. </br>
-    > * To Specify the appropriate path of the scripts folder of Blynk </br>
+    * To Specify the appropriate path of the scripts folder of Blynk </br>
     >cd C:\Users\HP\Documents\Arduino\libraries\Blynk\scripts. </br>
-    > * Copy the blynk-ser.bat from the directories displayed.</br>
+    * Copy the blynk-ser.bat from the directories displayed.</br>
     >dir </br>
-    > *  Now the device at COM1 is connected to Blynk cloud. </br>
+    *  Now the device at COM1 is connected to Blynk cloud. </br>
     >blynk-ser.bat -c COM1 </br>
       
 16. Now, Download and open the Fall detection arduino.ino file from repository.
