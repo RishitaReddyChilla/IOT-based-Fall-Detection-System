@@ -7,8 +7,7 @@
 3. Download a virtual Serial Port Emmulator. [VSPE (64 BIT) is used for this project]
 
 ## SETUP
-<details>
-  <summary>Virtual Serial Port emmulator</summary>
+</summary>hello
 1. Download the Blynk app from playstore.
 2. Create an account and a new project by mentioning the device as Arduino instead of ESP module which is the default device.
 3. After creating the project an email will be sent to the registered email address which contains the auth key. 
@@ -58,7 +57,7 @@
 17. Copy the path of that file and go to proteus and double click on Arduino and paste the .hex file link in the program file section of arduino.  
 18. Now simulate the circuit in proteus and use POT-HG (+ and -) to vary the distance.
 19. Adjust the distance using potentiometer, If the distance (cm) becomes  < 390 then an email is sent to the email mentioned in the arduino code.
-</details>
+</summary>
     
 
 
