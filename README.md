@@ -46,7 +46,7 @@ This project proposes a IoT based fall detection and rescue system. The main obj
         >* UltrasonicTEP.HEX. 
    * Place these three files in the LIBRARY folder of your Proteus software folder. Sometimes LIBRARY folder can be found insite the DATA folder of the proteus as shown    below</br> 
      [...\Labcenter Electronics\Proteus 8 Professional\DATA\LIBRARY\UltraSonicSensor.HEX].
-11. Download and Open the FALL DETECTION.pdsrj file on  Proteus software.
+11. Download and Open the FALL DETECTION.pdsprj file on  Proteus software.
 12. Now, double click on the ultrasonic sensor, edit component dialog box appears.
 13. In the ultrasonic sensor field. There is an option to select file. Select UltraSonicSensor.HEX file from the LIBRARIES folder of proteus. Click OK.
 14. Double click  on the COMPIM device and in the physical port select COM2 and set the Physical baud rate and virtual baud rate to 9600 from the dropdown. Then click okay.
