@@ -27,9 +27,9 @@
     14. 3. Edit the component - Ultrasonic Sensor
    * Download the ultrasonic sensor library for proteus via web search.
    * Three files can be found in the folder after extracting.
-        * UltrasonicTEP.IDX, 
-        * UltrasonicTEP.LIB, 
-        * UltrasonicTEP.HEX. 
+        >* UltrasonicTEP.IDX, 
+        >* UltrasonicTEP.LIB, 
+        >* UltrasonicTEP.HEX. 
    * Place these three files in the LIBRARY folder of your Proteus software folder. Sometimes LIBRARY folder can be found insite the DATA folder of the proteus as shown below</br> 
      [...\Labcenter Electronics\Proteus 8 Professional\DATA\LIBRARY\UltraSonicSensor.HEX].
 10. Download and Open the FALL DETECTION.pdsrj file on  Proteus software.
