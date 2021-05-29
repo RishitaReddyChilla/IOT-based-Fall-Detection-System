@@ -4,8 +4,8 @@
 
 // Pin Assignment
 
-//Your app authentication token (can be fetched from your blynk app
-char auth[] = "UHBUXodOmhPM_KhJdxB7Ojpn5JaFkD1Y";//Enter blynk auth token
+//Your app authentication token (can be fetched from your blynk app)
+char auth[] = "XXXXXXXXXXXXXXXXXXXXXXXXXX";//Enter blynk auth token
 BlynkTimer timer;
 LiquidCrystal lcd(8, 9, 10, 11, 12, 13);
 const int lm1 = 2;
