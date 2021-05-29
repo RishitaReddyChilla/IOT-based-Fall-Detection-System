@@ -2,8 +2,6 @@
 #include<Blynk.h>
 #include <BlynkSimpleStream.h>
 
-// Pin Assignment
-
 //Your app authentication token (can be fetched from your blynk app
 char auth[] = "XXXXXXXXXXXXXXXXXXXXXXXXXX";//Enter blynk auth token
 BlynkTimer timer;
