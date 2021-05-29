@@ -5,7 +5,7 @@
 // Pin Assignment
 
 //Your app authentication token (can be fetched from your blynk app
-char auth[] = "UHBUXodOmhPM_KhJdxB7Ojpn5JaFkD1Y";//Enter blynk auth token
+char auth[] = "XXXXXXXXXXXXXXXXXXXXXXXXXX";//Enter blynk auth token
 BlynkTimer timer;
 LiquidCrystal lcd(8, 9, 10, 11, 12, 13);
 const int lm1 = 2;
@@ -89,13 +89,6 @@ void loop() {
   Blynk.run();
   timer.run();
   Blynk.notify("Device started");
- 
-  // put your main code here, to run repeatedly:
- 
-
-// converting the time into a distance in Centimetre
-   
-
 
 }
 long microsecondsToInches(long microseconds)
@@ -135,10 +128,7 @@ lcd.print(cm);
 } 
 void stop()
 {
-
-
    lcd.clear();
-
 lcd.setCursor(0,0);
 lcd.print("SOMETHING AHEAD");
 lcd.setCursor(0,1);
@@ -161,21 +151,6 @@ lcd.print("STOP FOR TURN");
   digitalWrite(lm1,LOW);
   digitalWrite(lm2,LOW);
   digitalWrite(rm1,LOW);
-  digitalWrite(rm2,LOW);
-}
-
-void go_left()
-{
- 
-lcd.clear();
-lcd.setCursor(0,0);
-lcd.print("TURNING LEFT");
-lcd.setCursor(0,1);
-lcd.print(cm);
-  
-  digitalWrite(lm1,LOW);
-  digitalWrite(lm2,LOW);
-  digitalWrite(rm1,HIGH);
   digitalWrite(rm2,LOW);
 }
 
