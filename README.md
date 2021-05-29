@@ -39,19 +39,19 @@
 
     ![image](https://user-images.githubusercontent.com/66554341/120069395-72040380-c0a3-11eb-972e-cb9d0f6653e2.png)
 13. Now, open command prompt and type the following 3 commands to communicate between the devices. </br>
-    >>cd C:\Users\HP\Documents\Arduino\libraries\Blynk\scripts. </br>
+    >cd C:\Users\HP\Documents\Arduino\libraries\Blynk\scripts. </br>
       To Specify the appropriate path of the scripts folder of Blynk </br>
-    >>dir </br>
+    >dir </br>
       Copy the blynk-ser.bat from the directories displayed.</br>
-    >> blynk-ser.bat -c COM1 </br>
+    >blynk-ser.bat -c COM1 </br>
        Now the device at COM1 is connected to Blynk cloud. </br>
 14. Now, Download and open the Fall detection arduino.ino file from repository.
 15. Click on FILE > PREFERENCES </br>
     This opens a dialog box, if the verbose output during compilation check box is unchecked then check the text box and click okay.
 16. Now,  run the Arduino file.
-         * After compilation, the .hex file can be found. 
-         
-           ![image](https://user-images.githubusercontent.com/66554341/120069610-711fa180-c0a4-11eb-96ab-c1c157feedb0.png)
+         * After compilation, the .hex file can be found as shown below
+    
+       ![image](https://user-images.githubusercontent.com/66554341/120069610-711fa180-c0a4-11eb-96ab-c1c157feedb0.png)
 17. Copy the path of that file and go to proteus and double click on Arduino and paste the .hex file link in the program file section of arduino.  
 18. Now simulate the circuit in proteus and use POT-HG (+ and -) to vary the distance.
 19. Adjust the distance using potentiometer, If the distance (cm) becomes  < 390 then an email is sent to the email mentioned in the arduino code.
