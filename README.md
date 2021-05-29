@@ -63,7 +63,7 @@
 17. Click on FILE > PREFERENCES </br>
     This opens a dialog box, if the verbose output during compilation check box is unchecked then check the text box and click okay.
 18. Now,  run the Arduino file.
-         * After compilation, the .hex file can be found as shown below
+       *  After compilation, the .hex file can be found as shown below
     
        ![image](https://user-images.githubusercontent.com/66554341/120069610-711fa180-c0a4-11eb-96ab-c1c157feedb0.png)
 19. Copy the path of that file and go to proteus and double click on Arduino and paste the .hex file link in the program file section of arduino.  
