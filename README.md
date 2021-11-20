@@ -44,7 +44,7 @@ This project proposes an IoT based fall detection and rescue system. The main ob
         >* UltrasonicTEP.IDX, 
         >* UltrasonicTEP.LIB, 
         >* UltrasonicTEP.HEX. 
-   * Place these three files in the LIBRARY folder of your Proteus software folder. Sometimes LIBRARY folder can be found insite the DATA folder of the proteus as shown    below</br> 
+   * Place these three files in the LIBRARY folder of your Proteus software folder. Sometimes LIBRARY folder can be found inside the DATA folder of the proteus as shown    below</br> 
      [...\Labcenter Electronics\Proteus 8 Professional\DATA\LIBRARY\UltraSonicSensor.HEX].
 11. Download and Open the FALL DETECTION.pdsprj file on  Proteus software.
 12. Now, double click on the ultrasonic sensor, edit component dialog box appears.
