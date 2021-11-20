@@ -20,7 +20,7 @@ This project proposes an IoT based fall detection and rescue system. The main ob
 8. COMPIM
 
 ## SETUP
-1. Download the Blynk app from playstore.
+1. Download the Blynk app on mobile from playstore.
 2. Create an account and a new project by mentioning the device as Arduino instead of ESP module which is the default device.
 3. After creating the project an email will be sent to the registered email address which contains the auth key. 
 4. This auth key needs  to be copied and pasted in the Arduino code </br>
